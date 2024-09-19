@@ -1,4 +1,4 @@
-# Cricket Game
+# Cricket Power Play (CPP) Game
 
 ## Introduction
 This is my first semester project, developed in C++ as part of my coursework. The project simulates a simple cricket game, providing a fun way to learn and implement basic programming concepts.
