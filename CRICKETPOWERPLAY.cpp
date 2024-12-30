@@ -2,6 +2,7 @@
 #include<cstdlib>
 #include <ctime> 
 #include<conio.h>
+//Start of game
 using namespace std;
 	int team2wicket=0, team1wicket=0;
 	string all[51]={"1","2","3","4","6","1","2","3","4","6","1","2","3","4","6","1","2","3","4","5","6","1","2","3","4","6","0","0","0","0","0","0","0","0","OUT","OUT","OUT","OUT","NB","NB1","NB2","NB3","NB4","NB5","NB6","WD","WD1","WD2","WD3","WD4","WD5"};
